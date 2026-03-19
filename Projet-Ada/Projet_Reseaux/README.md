@@ -14,5 +14,3 @@ This folder contains an Ada networking project.
 You may find:
 - source code
 - test files
-- generated outputs
-- supporting documents
